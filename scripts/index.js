@@ -5,7 +5,7 @@ async function searchMovies(){
 try{
 const query = document.getElementById("query").value;
 
-const res =await fetch(`http://swapi.dev/api/people/?search=${query}`);
+const res =await fetch(`https://swapi.dev/api/people/?search=${query}`);
 
 const data =await res.json();
 
