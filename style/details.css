@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://c.tenor.com/weHBA4U3yNQAAAAC/galaxy-stars.gif);
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+.row{
+    background-image: url(https://c.tenor.com/TZaIBNauQfAAAAAC/stars-galaxy.gif);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 200px;
+    color: rgb(0, 255, 128);
+}
